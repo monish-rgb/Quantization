@@ -5,9 +5,7 @@ quantization** of floating-point tensors using only NumPy. It covers both
 quantization schemes used in modern ML inference and shows *why* each one exists
 through a worked INT8 matrix-multiply example.
 
-The goal is clarity over performance: every file is self-contained and the math
-is spelled out in the docstrings so you can read the code top-to-bottom and
-understand exactly what a quantizer does.
+The goal is to understand exactly what a quantizer does.
 
 ## What is quantization?
 
