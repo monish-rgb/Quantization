@@ -1,4 +1,4 @@
-# 8-bit Quantization — From Scratch in NumPy
+# 8-bit Quantization - From Scratch in NumPy
 
 A small, heavily-commented educational project that implements **8-bit integer
 quantization** of floating-point tensors using only NumPy. It covers both
